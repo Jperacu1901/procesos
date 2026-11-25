@@ -1,0 +1,11 @@
+
+Haciendo ping a google.com [172.217.20.238] con 32 bytes de datos:
+Respuesta desde 172.217.20.238: bytes=32 tiempo=11ms TTL=117
+Respuesta desde 172.217.20.238: bytes=32 tiempo=13ms TTL=117
+Respuesta desde 172.217.20.238: bytes=32 tiempo=11ms TTL=117
+
+Estad¡sticas de ping para 172.217.20.238:
+    Paquetes: enviados = 3, recibidos = 3, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 11ms, M ximo = 13ms, Media = 11ms
