@@ -9,3 +9,14 @@ Estad¡sticas de ping para 172.217.20.238:
     (0% perdidos),
 Tiempos aproximados de ida y vuelta en milisegundos:
     M¡nimo = 11ms, M ximo = 13ms, Media = 11ms
+
+Haciendo ping a google.com [192.178.25.110] con 32 bytes de datos:
+Respuesta desde 192.178.25.110: bytes=32 tiempo=14ms TTL=117
+Respuesta desde 192.178.25.110: bytes=32 tiempo=12ms TTL=117
+Respuesta desde 192.178.25.110: bytes=32 tiempo=17ms TTL=117
+
+Estad¡sticas de ping para 192.178.25.110:
+    Paquetes: enviados = 3, recibidos = 3, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 12ms, M ximo = 17ms, Media = 14ms
